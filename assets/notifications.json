@@ -1,0 +1,21 @@
+{
+  "notifications": [
+
+    {
+      "title":  "User 1",
+      "content":  " Requested Wash service ",
+      "timeAgo":  "1m"
+    },
+    {
+      "title":  "User 2",
+      "content":  " Pause service on 20 August",
+      "timeAgo":  "1m"
+    },
+    {
+      "title":  "User 3",
+      "content":  " New Service Request ",
+      "timeAgo":  "1m"
+    }
+
+  ]
+}
